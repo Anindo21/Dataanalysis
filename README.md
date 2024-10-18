@@ -1,8 +1,3 @@
-# Housing Data Analysis
-Here’s a sample `README.md` file you can use for your GitHub repository. This covers the steps you've followed so far, starting from setting up Conda and GitHub, and using the Ames Housing dataset for data analysis.
-
----
-
 # Ames Housing Data Analysis
 
 This project involves analyzing the **Ames Housing Dataset** from Kaggle, which contains detailed information about various houses in Ames, Iowa. The analysis focuses on cleaning, preprocessing, and exploring the data to extract useful insights.
