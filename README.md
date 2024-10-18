@@ -108,8 +108,3 @@ If you need any additional libraries, you can install them as needed.
 
 3. Perform data analysis, visualization, and preprocessing to prepare the dataset for further analysis or machine learning models.
 
----
-
-
-
-This `README.md` file includes all the steps from setting up the environment, installing dependencies, configuring Git/GitHub, and syncing your changes.
